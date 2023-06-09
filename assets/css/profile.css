@@ -1,5 +1,4 @@
 body {
-    background-image: url('../images/graduate.jpg');
     color: white;
     font-family: Arial, sans-serif;
     margin: 0;
@@ -13,6 +12,12 @@ h1 {
 
 p {
     margin-bottom: 10px;
+}
+
+.container {
+    background-image: url('../images/graduate.jpg');
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .section {

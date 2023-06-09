@@ -19,6 +19,7 @@
       <p>Hi, my name is Rayan Hamadeh. I'm a student in Vanier College studying Website design. I love creating beautiful and interactive user interfaces using HTML, CSS, and JavaScript.</p>
     </section>
   </div>
+
 </body>
 </html>
 
