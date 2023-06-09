@@ -1,40 +1,40 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>About Me</title>
-  <link rel="stylesheet" type="text/css" href="css/profile.css">
-</head>
-<body>
-    <button><a href="index.php">Home Page</a></button>
-    <button><a href="about.php">About Me</a></button>
-<div class="container">
-  <h1>About Me</h1>
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <section>
-    <h2>Introduction</h2>
-    <p>Hi, my name is Rayan Hamadeeh. I'm a student in Vanier College studying Website design. I love creating beautiful and interactive user interfaces using HTML, CSS, and JavaScript.</p>
-</section>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
-  <section>
-    <h2>Skills</h2>
-    <p>I have basic experience with HTML, CSS, JavaScript, and responsive web design.</p>
-</section>
-
-
-  <section>
-    <h2>Education</h2>
-    <p>I graduated with a Bachelor's degree in Accounting Information System </p>
-</section>
-
-  <section>
-    <h2>Interests</h2>
-    <p>When I'm not coding, I enjoy reading tech blogs, attending tech conferences, and exploring new technologies. I believe in continuous learning and staying up-to-date with the latest industry trends.</p>
-</section>
-
-  <section>
-    <h2>Contact</h2>
-    <p>If you would like to get in touch with me, you can reach me at rayanhamadeh10@gmail.com. I'm open to new opportunities and collaborations, so feel free to reach out!</p>
-</section>
-</div>
-</body>
+    <title>Contact Us - Web Design Specialist Program</title>
+  </head>
+  <body>
+    <div class="container">
+        <a href="index.php" class="btn btn-dark">Home</a>
+        <a href="about.php" class="btn btn-dark">About Me</a>
+        
+        <div class="row">
+            <div class="col-4"></div>
+            <div class="col-4"><img src="assets/images/graduate.jpg" alt="#" width="100%"></div>
+            <div class="col-4"></div>
+        </div>
+        <h1>About Me</h1>
+        <p>
+          Hi, my name is Rayan Hamadeeh. I'm a student in Vanier College studying Website design. I love creating beautiful and interactive user interfaces using HTML, CSS, and JavaScript.  
+        </p>
+        <h2></h2>
+        <p>
+            profile:
+            <ol>
+                <li>Skills:I have basic experience with HTML, CSS, JavaScript, and responsive web design.</li>
+                <li>Education: Graduate with a Bachelor's degree in Accounting Information System </li>
+                <li>Contact:If you would like to get in touch with me, you can reach me at rayanhamadeh10@gmail.com.</li>
+            </ol>
+        </p>
+    </div>
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  </body>
 </html>
