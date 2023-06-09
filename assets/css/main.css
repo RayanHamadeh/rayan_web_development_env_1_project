@@ -1,0 +1,33 @@
+body {
+    background-image: url('../images/intro.jpg');
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+section h2 {
+    color: #666;
+    margin-bottom: 10px;
+}
+
+section p {
+    color: #999;
+}
