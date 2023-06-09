@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>About Me</title>
-  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <link rel="stylesheet" type="text/css" href="css/profile.css">
 </head>
 <body>
     <button><a href="index.php">Home Page</a></button>
