@@ -7,8 +7,10 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
 
-    <title>Contact Us - Web Design Specialist Program</title>
+    <title>My profile</title>
+    <link rel="stylesheet" href="assets/css/profile.css">
   </head>
   <body>
     <div class="container">
@@ -22,7 +24,7 @@
         </div>
         <h1>About Me</h1>
         <p>
-          Hi, my name is Rayan Hamadeeh. I'm a student in Vanier College studying Website design. I love creating beautiful and interactive user interfaces using HTML, CSS, and JavaScript.  
+          Hi, my name is Rayan Hamadeh. I'm a student in Vanier College studying Website design. I love creating beautiful and interactive user interfaces using HTML, CSS, and JavaScript.  
         </p>
         <h2></h2>
         <p>
